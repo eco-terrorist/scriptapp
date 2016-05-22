@@ -1,0 +1,13 @@
+open north
+open south
+open east 
+open west
+take handgun
+take cat 
+take hamburger
+take ammobox
+go north
+go south
+go east
+go west
+skip turn

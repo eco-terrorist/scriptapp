@@ -1,0 +1,7 @@
+take ammobox
+take healthpack
+go north 
+go south 
+go east
+go west
+skip turn
