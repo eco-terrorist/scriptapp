@@ -1,0 +1,3 @@
+unzip ~/Downloads/scriptapp-master
+open ~/Downloads/rpg
+exit 0;
